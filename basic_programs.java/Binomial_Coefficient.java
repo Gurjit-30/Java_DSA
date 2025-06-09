@@ -8,7 +8,7 @@ public class Binomial_Coefficient{
         return prod;
     }
     public static void main(String[] args){
-        int n=5,r=2;
+        int n=6,r=3;
         System.out.println(factorial(n)/(factorial(r)*factorial(n-r)));
     }
 }
