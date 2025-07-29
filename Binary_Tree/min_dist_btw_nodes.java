@@ -1,10 +1,4 @@
 import java.util.*;
-import java.lang.*;
-import java.io.*;
-
-class Codechef
-{
-   import java.util.*;
 
 /**
  * This class provides a complete solution for finding the minimum distance 
@@ -165,12 +159,4 @@ public class BinaryTreeDistance {
         System.out.println("Distance between " + node1 + " and " + node2 + " is: " + minDistance(root, node1, node2));
 
     }
-}
-
-    }
-	public static void main (String[] args) throws java.lang.Exception
-	{
-		// your code goes here
-
-	}
 }
